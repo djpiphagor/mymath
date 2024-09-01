@@ -1,3 +1,3 @@
-module gitlab.com/ruzhukov1/mymath
+module github.com/djpiphagor/mymath
 
 go 1.19
